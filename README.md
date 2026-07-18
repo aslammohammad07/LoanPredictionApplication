@@ -205,20 +205,6 @@ pip install -r requirements.txt
 
 # ⚙ Configure Environment
 
-Create a `.env` file.
-
-Example
-
-```env
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=LoanPredictionDB
-DB_USER=root
-DB_PASSWORD=your_password
-
-SECRET_KEY=your_secret_key
-JWT_SECRET_KEY=your_jwt_secret
-```
 
 ---
 
